@@ -1,0 +1,2 @@
+
+see [[Hexagonal Architecture]]
