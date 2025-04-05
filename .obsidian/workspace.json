@@ -11,14 +11,12 @@
             "id": "0c2caf829218d477",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Work In Progress/Food Ordering System.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250405165930.png"
               },
-              "icon": "lucide-file",
-              "title": "Food Ordering System"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250405165930"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work In Progress/Google Cloud and Google Kubernetes Engine.md",
+                "file": "Pasted image 20250405165930.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Google Cloud and Google Kubernetes Engine"
+              "title": "Backlinks for Pasted image 20250405165930"
             }
           },
           {
@@ -150,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +161,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c2caf829218d477",
+  "active": "ae7b2a95ebdceb1f",
   "lastOpenFiles": [
+    "Work In Progress/Food Ordering System.md",
     "Pasted image 20250405165930.png",
     "Work In Progress/Hexagonal Architecture.md",
-    "Work In Progress/Food Ordering System.md",
     "Work In Progress/Clean Architecrure.md",
     "Work In Progress/PostgreSQL.md",
     "Work In Progress/Google Cloud and Google Kubernetes Engine.md",
