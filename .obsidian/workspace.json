@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Work In Progress/Food Ordering System.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Food Ordering System"
@@ -163,13 +163,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c2caf829218d477",
+  "active": "ae7b2a95ebdceb1f",
   "lastOpenFiles": [
     "Pasted image 20250405215618.png",
-    "Work In Progress/Domain Driven Design.md",
-    "Work In Progress/Maven.md",
+    "Work In Progress/Order Service Domain Logic.excalidraw",
     "Pasted image 20250405165930.png",
     "Work In Progress/Food Ordering System.md",
+    "Work In Progress/Domain Driven Design.md",
+    "Work In Progress/Maven.md",
     "Work In Progress/Hexagonal Architecture.md",
     "Work In Progress/Clean Architecrure.md",
     "Work In Progress/PostgreSQL.md",
