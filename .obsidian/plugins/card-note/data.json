@@ -1,0 +1,22 @@
+{
+  "dragSymbol": "💔",
+  "dragSymbolSize": 18,
+  "defaultFolder": "",
+  "createToSouceFileFolder": false,
+  "createToCanvasFolder": false,
+  "columnWidth": 250,
+  "rowHeight": 250,
+  "autoLink": true,
+  "arrowTo": "end",
+  "showDragSymbol": true,
+  "fitContentHeight": true,
+  "canvasNodeHeight": 500,
+  "canvasNodeWidth": 500,
+  "query": "string",
+  "useRegex": false,
+  "matchCase": false,
+  "showSearchDetail": false,
+  "include": "",
+  "exclude": "",
+  "autoPreview": false
+}

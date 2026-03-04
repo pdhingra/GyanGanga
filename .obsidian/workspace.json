@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9591b0926b732c8",
+        "id": "c3b2d154005e366a",
         "type": "tabs",
         "children": [
           {
-            "id": "0c2caf829218d477",
+            "id": "6a0cd6c5b097dc67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work In Progress/Food Ordering System.md",
+                "file": "Clean up Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Food Ordering System"
+              "title": "Clean up Log"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work In Progress/Food Ordering System.md",
+                "file": "Clean up Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Food Ordering System"
+              "title": "Backlinks for Clean up Log"
             }
           },
           {
@@ -145,8 +145,19 @@
               "icon": "lucide-list",
               "title": "Outline of Google Cloud and Google Kubernetes Engine"
             }
+          },
+          {
+            "id": "aabffded41e5099a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,11 +172,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae7b2a95ebdceb1f",
+  "active": "6a0cd6c5b097dc67",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Clean up Log.md",
+    "Untitled 1.base",
     "Pasted image 20250405215618.png",
     "Work In Progress/Order Service Domain Logic.excalidraw",
     "Pasted image 20250405165930.png",
