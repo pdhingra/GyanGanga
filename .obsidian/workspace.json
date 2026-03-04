@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Clean up Log"
             }
+          },
+          {
+            "id": "569615fd31417ff1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-04 08.38.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-04 08.38.11.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,6 @@
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -177,10 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a0cd6c5b097dc67",
+  "active": "569615fd31417ff1",
   "lastOpenFiles": [
-    "Untitled.base",
     "Clean up Log.md",
+    "Excalidraw/Drawing 2026-03-04 08.38.11.excalidraw.md",
+    "Excalidraw",
+    "Untitled.base",
     "Untitled 1.base",
     "Pasted image 20250405215618.png",
     "Work In Progress/Order Service Domain Logic.excalidraw",
