@@ -25,12 +25,14 @@
             "id": "569615fd31417ff1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-04 08.38.11.excalidraw.md"
+                "file": "Clean up Log.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-04 08.38.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "Clean up Log"
             }
           }
         ],
@@ -189,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a324ead4e3fe9e8f",
+  "active": "569615fd31417ff1",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-04 08.38.11.excalidraw.md",
     "Clean up Log.md",
